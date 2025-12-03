@@ -2,7 +2,7 @@ import torch
 from diffusers import StableDiffusion3Pipeline
 from huggingface_hub import login
 
-login(token="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")
+login(token="PUT TOKEN HERE")
 
 # Set your seed value
 seed = 123456  # You can use any integer value you want
